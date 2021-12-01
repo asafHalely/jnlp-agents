@@ -1,4 +1,3 @@
-
 FROM jenkins/inbound-agent as jnlp
 
 FROM ubuntu:18.04
